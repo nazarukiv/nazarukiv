@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **data structures, practicing LeetCode, algorithms, and how to correctly host on AWS.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nazarukiv](https://github.com/nazarukiv)
-
 - 📫 How to reach me **nazaruk7649@ukr.net**
 
 <h3 align="left">Connect with me:</h3>

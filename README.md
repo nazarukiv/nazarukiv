@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Nazaruk</h1>
 <h3 align="center">I'm a passionate backend developer specializing in the Django framework, with expertise in developing Telegram and Discord bots. Currently, I'm deeply studying algorithms and data structures, practicing on LeetCode to enhance my problem-solving skills. I thrive on building various pet projects using different tech stacks, including web development, bot creation, and Tkinter applications.</h3>
 
-- 🌱 I’m currently learning **data structures, practicing LeetCode, algorithms, and how to correctly host on AWS.**
+- 🌱 I’m currently learning **data structures, practicing LeetCode, algorithms and developing django web application for articles.
 
 - 📫 How to reach me **nazaruk7649@ukr.net**
 

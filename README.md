@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ivan Nazaruk</h1>
-<h3 align="center">I'm a passionate backend developer specializing in the Django framework, with expertise in developing Telegram and Discord bots. Currently, I'm deeply studying algorithms and data structures, practicing on LeetCode to enhance my problem-solving skills. I thrive on building various pet projects using different tech stacks, including web development, bot creation, and Tkinter applications.</h3>
+<h3 align="center">I'm a student at City St George's, University of London, studying Computer Science. I like technology, software development, and problem-solving. <br>
+Currently learning <b>Java, Databases,Math for computing and System Architecture</b>.<br>
+I have experience in Python(Django, pet projects, Telegram/Discord bots), SQL, Docker, APIs, and more.<br>
+My current goals are to improve my skills, build projects that solve real-life challenges, and just enjoy coding.<br>
+Finally, I started my education journey in university, and I'm very excited to become a computer scientist. <br>
+I'm open to collaborating on interesting projects, hackathons, or open-source contributions.<br>
 
--🌱 Over the summer, I completed a few projects using Django and Tkinter, which helped strengthen my development skills. Right now, I’m focusing on improving my understanding of data structures and algorithms, while solving problems on LeetCode to prepare for technical interviews.
+
 
 
 - 📫 How to reach me **nazaruk7649@ukr.net**

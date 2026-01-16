@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ivan Nazaruk</h1>
-<h3 align="center">I'm a student at City St George's, University of London, studying Computer Science. I like technology, software development, and problem-solving. <br>
+## Hi 👋, I'm Ivan Nazaruk
 
-- What I am doing right now? My main focus is to solve more problems on leetcode, build projects using Java and work towards my degree.
-- 📫 How to reach me: nazaruk7649@ukr.net
+I'm a Computer Science student at City St George's, University of London.  
+I’m interested in technology, software development, and problem-solving.
+
+### What I’m working on
+- Solving algorithmic problems on LeetCode  
+- Building projects using Java  
+- Working towards my Computer Science degree  
+
+### Links
+- 💻 LeetCode: https://leetcode.com/u/nazaruk__iv/
+- 🔗 LinkedIn: https://www.linkedin.com/in/ivan-nazaruk-5a9105278/
+- 📫 Email: nazaruk7649@ukr.net
 

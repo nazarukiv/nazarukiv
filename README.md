@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Ivan Nazaruk
 
-I'm a Computer Science student at City St George's, University of London.  
+I'm a Computer Science student at City St George's, University of London(1st year).  
 I’m interested in technology, software development, and problem-solving.
 
 ### What I’m working on

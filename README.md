@@ -27,7 +27,6 @@ I'm interested in technology, software development, and problem-solving.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazarukiv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ivan's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarukiv&theme=tokyonight&hide_border=true" alt="Ivan's Streak" width="49%" />
 </p>
 </div>

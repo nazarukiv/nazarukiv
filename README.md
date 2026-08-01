@@ -7,7 +7,6 @@ Currently focused on becoming a **Java Backend Engineer**.
 ## 🎓 Education
 
 **BSc Computer Science**
-
 City St George's, University of London
 
 Expected graduation: 2028
@@ -18,25 +17,15 @@ Current average: **81.2 / 100 (First Class)**
 
 ## 🎯 Currently focusing on
 
-- Java 21
-
-- Spring Boot
-
+- Java 21 & Spring Boot
 - REST APIs
-
 - SQL (PostgreSQL & MySQL)
-
 - Hibernate / JPA
-
 - Redis
-
 - Docker
-
 - Git & GitHub
-
 - System Design
-
-- Data Structures & Algorithms(Leetcode)
+- Data Structures & Algorithms (LeetCode)
 
 ---
 

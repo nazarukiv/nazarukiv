@@ -7,7 +7,7 @@ Currently focused on becoming a **Java Backend Engineer**.
 ## 🎓 Education
 
 **BSc Computer Science**
-City St George's, University of London
+(City St George's, University of London)
 
 Expected graduation: 2028
 
